@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="111.208mm"
-   height="119.787mm"
-   viewBox="0 0 111.208 119.787"
+   width="113.68648mm"
+   height="122.64494mm"
+   viewBox="0 0 113.68648 122.64494"
    version="1.1"
    id="svg28393"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="2022_heating_dynamics_diagram.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,14 +26,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.1250517"
-     inkscape:cx="174.21421"
-     inkscape:cy="220.43431"
-     inkscape:window-width="1507"
-     inkscape:window-height="1020"
-     inkscape:window-x="128"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g8337-9-2"
+     inkscape:cx="167.10343"
+     inkscape:cy="156.43726"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g32225"
      inkscape:pageshadow="2" />
   <defs
      id="defs28390">
@@ -396,30 +396,32 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Background" />
+     inkscape:label="Background"
+     transform="translate(1.2391912,1.4289272)" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(1.2391912,1.4289272)">
     <g
        id="g32225"
        transform="translate(-36.478346,-59.279948)">
       <rect
-         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.81599"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
          id="rect32088"
-         width="108.39211"
-         height="58.485558"
-         x="37.886341"
-         y="60.687943"
+         width="113.18648"
+         height="61.072472"
+         x="35.489155"
+         y="58.101021"
          rx="0"
          ry="0" />
       <rect
-         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:2.81599"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
          id="rect32088-3"
-         width="108.39211"
-         height="58.485558"
-         x="37.886341"
-         y="119.1735"
+         width="113.18648"
+         height="61.072472"
+         x="35.489155"
+         y="119.17349"
          rx="0"
          ry="0" />
       <g
@@ -799,7 +801,7 @@
                  inkscape:original-d="m 34.255871,62.097986 c 0.427081,-0.181722 0.854154,-0.363403 1.281246,-0.545054 0.179012,0.237158 0.357854,0.474279 0.536672,0.711538 0.332187,-0.117581 0.663534,-0.23482 0.996273,-0.352511 -0.0042,0.01715 -0.0081,0.03433 -0.01223,0.05157"
                  inkscape:path-effect="#path-effect67018-9-4-7-0-7-0-7-9-01-1" />
               <path
-                 style="fill:none;stroke:#fe0202;stroke-width:0.22824173;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+                 style="fill:none;stroke:#fe0202;stroke-width:0.228242;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                  d="m 34.258585,61.499212 c 0.427094,-0.18169 0.854167,-0.363371 1.157169,-0.3356 0.303002,0.02777 0.481846,0.264889 0.737398,0.324715 0.255551,0.05983 0.586898,-0.05741 0.751223,-0.107688 0.164326,-0.05027 0.160261,-0.03313 0.15617,-0.01588"
                  id="path67016-4-8-6-8-5-7-6-1-9-1"
                  inkscape:transform-center-x="0.070275288"
@@ -952,26 +954,26 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-weight:bold;font-size:14.1111px;line-height:0.85;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';font-variant-ligatures:none;stroke-width:0.264583"
-         x="119.82616"
-         y="73.866028"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.16563px;line-height:0.85;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="38.224907"
+         y="65.735947"
          id="text32119"><tspan
            sodipodi:role="line"
            id="tspan32117"
-           style="stroke-width:0.264583"
-           x="119.82616"
-           y="73.866028">(A)</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.16563px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="38.224907"
+           y="65.735947">(a)</tspan></text>
       <text
          xml:space="preserve"
-         style="font-weight:bold;font-size:14.1111px;line-height:0.85;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';font-variant-ligatures:none;stroke-width:0.264583"
-         x="119.82616"
-         y="133.19028"
-         id="text32119-0"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.16563px;line-height:0.85;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="38.224907"
+         y="126.17576"
+         id="text3285"><tspan
            sodipodi:role="line"
-           id="tspan32117-8"
-           style="stroke-width:0.264583"
-           x="119.82616"
-           y="133.19028">(B)</tspan></text>
+           id="tspan3283"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.16563px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="38.224907"
+           y="126.17576">(b)</tspan></text>
     </g>
   </g>
 </svg>
